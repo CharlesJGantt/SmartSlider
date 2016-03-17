@@ -5,7 +5,7 @@ https://github.com/esp8266/Arduino is needed to flash it via Arduino IDE.
 
 With this project you can make ANY dumb slider smart.
 
-https://youtu.be/9NIni5GYWSA
+https://www.youtube.com/watch?v=h9jXmKDSoqA
 
 Features:
 
